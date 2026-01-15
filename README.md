@@ -12,6 +12,6 @@
 
 ## Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelo-frans-toyosato-7a2269162)
-[![Gmail Badge](https://img.shields.io/badge/-aftoyosato@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aftoyosato@gmail.com)](mailto:aftoyosato@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-007ec6?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelo-frans-toyosato-7a2269162)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aftoyosato@gmail.com)](mailto:aftoyosato@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=GitHub&style=social)](https://github.com/AngeloToyosato)
